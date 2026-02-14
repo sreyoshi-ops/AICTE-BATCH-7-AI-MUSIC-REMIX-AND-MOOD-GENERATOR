@@ -54,7 +54,8 @@ Normalization & Stereo Conversion
 ↓
 Playback & Download
 
-App will run at:http://localhost:8501
+App will run at:https://aicte-batch-7-ai-music-remix-and-mood-generator-chp5pdpbut9nia.streamlit.app/
+
 
 🌐 Deployment
 
